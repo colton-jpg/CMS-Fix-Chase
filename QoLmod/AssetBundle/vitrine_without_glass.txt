@@ -1,0 +1,13 @@
+[BonusPart0]
+bundle=vitrine_without_glass.asset
+localizedName=Garage decoration with bonus parts
+model=vitrine_without_glass
+price=0
+type=BonusRoof
+[General]
+package_desc=...
+package_id=
+package_name=vitrine_without_glass
+package_tag=Bonus Parts
+package_visibility=Private
+upload_type=Update
